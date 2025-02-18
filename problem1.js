@@ -9,6 +9,5 @@ if(typeof price !== 'number' || price < 0){
     return amount;
 
 }
-// var calc = calculateVAT(999)
-// console.log(calc)
+
 

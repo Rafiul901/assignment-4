@@ -26,4 +26,3 @@ function  willSuccess( marks ) {
      
 
 }
-console.log(willSuccess( 'jhjhy'))
